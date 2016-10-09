@@ -1,0 +1,260 @@
+{
+  "apps": [
+    {
+      "name": "Java",
+      "description": "",
+      "price": "Free",
+      "url": "http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html",
+      "cask": "java",
+      "tags": ["android-development", "java"]
+    },
+    {
+      "name": "Android Studio",
+      "description": "",
+      "price": "Free",
+      "url": "https://developer.android.com/studio",
+      "cask": "android-studio",
+      "tags": ["android-development", "java"]
+    },
+    {
+      "name": "Firefox",
+      "description": "",
+      "price": "Free",
+      "url": "https://www.mozilla.org/firefox",
+      "cask": "firefox",
+      "tags": ["browsers", "internet"]
+    },
+    {
+      "name": "Chrome",
+      "description": "",
+      "price": "Free",
+      "url": "https://www.google.com/chrome",
+      "cask": "skype",
+      "tags": ["browsers", "internet"]
+    },
+    {
+      "name": "Opera",
+      "description": "A browser with a built-in ad blocker, battery saver and free VPN",
+      "price": "Free",
+      "url": "http://www.opera.com",
+      "cask": "opera",
+      "tags": ["browsers", "internet"]
+    },
+    {
+      "name": "Skype",
+      "description": "",
+      "price": "Free",
+      "url": "https://www.skype.com",
+      "cask": "google-chrome",
+      "tags": ["social", "internet", "messaging"]
+    },
+    {
+      "name": "Whatsapp",
+      "description": "",
+      "price": "Free",
+      "url": "https://www.whatsapp.com",
+      "cask": "whatsapp",
+      "tags": ["social", "internet", "messaging"]
+    },
+    {
+      "name": "Brackets",
+      "description": "",
+      "price": "Free",
+      "url": "http://brackets.io",
+      "cask": "brackets",
+      "tags": ["text-editors", "general-development", "web-development"]
+    },
+    {
+      "name": "TextWrangler",
+      "description": "An all-purpose text and code editor for Mac OS X",
+      "price": "Free",
+      "url": "http://www.barebones.com/products/textwrangler",
+      "cask": "textwrangler",
+      "tags": ["text-editors", "general-development"]
+    },
+    {
+      "name": "BBEdit",
+      "description": "BBEdit is the holy grail of text editors for Mac",
+      "price": "Free",
+      "url": "http://www.barebones.com/products/bbedit",
+      "cask": "bbedit",
+      "tags": ["text-editors", "general-development", "web-development"]
+    },
+    {
+      "name": "Sublime Text",
+      "description": "A sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.",
+      "price": "$70 | Free Trial",
+      "url": "http://www.sublimetext.com",
+      "cask": "sublime-text",
+      "tags": ["text-editors", "general-development", "web-development"]
+    },
+    {
+      "name": "MacVim",
+      "description": "MacVim is the version of the famous Vim text editor for macOS",
+      "price": "Free",
+      "url": "http://macvim-dev.github.io/macvim",
+      "cask": "macvim",
+      "tags": ["text-editors", "general-development"]
+    },
+    {
+      "name": "CotEditor",
+      "description": "The Plain-Text Editor for macOS",
+      "price": "Free",
+      "url": "https://coteditor.com/",
+      "cask": "coteditor",
+      "tags": ["text-editors", "general-development"]
+    },
+    {
+      "name": "MacDown",
+      "description": "",
+      "price": "Free",
+      "url": "http://macdown.uranusjr.com",
+      "cask": "macdown",
+      "tags": ["text-editors", "general-development", "markdown-editors"]
+    },
+    {
+      "name": "Coda",
+      "description": "You code for the web. You demand a fast, clean, and powerful text editor. Pixel-perfect preview. A built-in way to open and manage your local and remote files. And maybe a dash of SSH. Say hello, Coda.",
+      "price": "Free",
+      "url": "https://panic.com/coda/",
+      "cask": "coda",
+      "tags": ["web-development"]
+    },
+    {
+      "name": "Spotify",
+      "description": "",
+      "price": "Free with ads, or $10/month Premium",
+      "url": "https://www.spotify.com",
+      "cask": "spotify",
+      "tags": ["music-players", "internet", "social"]
+    },
+    {
+      "name": "VLC Player",
+      "description": "",
+      "price": "Free",
+      "url": "http://www.videolan.org/vlc",
+      "cask": "vlc",
+      "tags": ["music-players", "video-players", "media-players"]
+    },
+    {
+      "name": "Sketch",
+      "description": "",
+      "price": "$99",
+      "url": "https://www.sketchapp.com/",
+      "cask": "sketch",
+      "tags": ["design", "drawing" , "ui-design", "vector-design"]
+    },
+    {
+      "name": "Gimp",
+      "description": "An acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring.",
+      "price": "Free",
+      "url": "http://www.gimp.org",
+      "cask": "gimp",
+      "tags": ["design", "drawing", "image-editors"]
+    },
+    {
+      "name": "Skitch",
+      "description": "Get your point across with fewer words using annotation, shapes and sketches, so that your ideas become reality faster.",
+      "price": "Free",
+      "url": "https://evernote.com/skitch/",
+      "cask": "skitch",
+      "tags": ["design", "drawing", "image-editors"]
+    },
+    {
+      "name": "Handbrake",
+      "description": "",
+      "price": "Free",
+      "url": "https://handbrake.fr/",
+      "cask": "handbrake",
+      "tags": ["video-convertors"]
+    },
+    {
+      "name": "Dropbox",
+      "description": "",
+      "price": "Free (various premium service levels)",
+      "url": "https://www.dropbox.com",
+      "cask": "dropbox",
+      "tags": ["productivity", "cloud", "internet"]
+    },
+    {
+      "name": "Transmission",
+      "description": "",
+      "price": "Free",
+      "url": "https://transmissionbt.com",
+      "cask": "transmission",
+      "tags": ["torrent", "internet"]
+    },
+    {
+      "name": "Github Desktop",
+      "description": "",
+      "price": "Free",
+      "url": "https://desktop.github.com",
+      "cask": "github-desktop",
+      "tags": ["git", "github", "general-development"]
+    },
+    {
+      "name": "FUSE",
+      "description": "",
+      "price": "Free",
+      "url": "https://osxfuse.github.io",
+      "cask": "osxfuse",
+      "tags": ["system", "utilities"]
+    },
+    {
+      "name": "1Password",
+      "description": "",
+      "price": "$64.99",
+      "url": "https://1password.com",
+      "cask": "1password",
+      "tags": ["system", "utilities", "password-managers"]
+    },
+    {
+      "name": "Caffeine",
+      "description": "",
+      "price": "Free",
+      "url": "http://lightheadsw.com/caffeine",
+      "cask": "caffeine",
+      "tags": ["system", "utilities"]
+    },
+    {
+      "name": "Slack",
+      "description": "A messaging app for teams who put robots on Mars...",
+      "price": "Free",
+      "url": "https://slack.com/",
+      "cask": "slack",
+      "tags": ["productivity", "team-work", "messaging"]
+    },
+    {
+      "name": "Mindnote",
+      "description": "MindNode makes mind mapping delightful.",
+      "price": "29,99 €",
+      "url": "https://mindnode.com",
+      "cask": "mindnode-pro",
+      "tags": ["productivity", "team-work", "messaging"]
+    },
+    {
+      "name": "Vagrant",
+      "description": "Create and configure lightweight, reproducible, and portable development environments.",
+      "price": "Free",
+      "url": "https://www.vagrantup.com",
+      "cask": "vagrant",
+      "tags": ["general-development", "virtual-machines"]
+    },
+    {
+      "name": "VirtualBox",
+      "description": "A general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.",
+      "price": "Free",
+      "url": "https://www.virtualbox.org",
+      "cask": "virtualbox",
+      "tags": ["general-development", "virtual-machines"]
+    },
+    {
+      "name": "Microsoft Office",
+      "description": "Unmistakably Office, designed for Mac. Get started quickly with new, modern versions of Word, Excel, PowerPoint, Outlook and OneNote—combining the familiarity of Office and the unique Mac features you love.",
+      "price": "$149.99 or $99.99 per year",
+      "url": "https://products.office.com/en-us/mac/microsoft-office-for-mac",
+      "cask": "microsoft-office",
+      "tags": ["productivity"]
+    }
+  ]
+}

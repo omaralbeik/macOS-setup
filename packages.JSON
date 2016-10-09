@@ -1,0 +1,120 @@
+{
+  "packages": [
+    {
+      "name": "bash",
+      "description": ""
+    },
+    {
+      "name": "gettext",
+      "description": ""
+    },
+    {
+      "name": "libtiff",
+      "description": ""
+    },
+    {
+      "name": "python",
+      "description": ""
+    },
+    {
+      "name": "python3",
+      "description": ""
+    },
+    {
+      "name": "wget",
+      "description": ""
+    },
+    {
+      "name": "bash-completion",
+      "description": ""
+    },
+    {
+      "name": "git-lfs",
+      "description": ""
+    },
+    {
+      "name": "libtool",
+      "description": ""
+    },
+    {
+      "name": "x264",
+      "description": ""
+    },
+    {
+      "name": "colordiff",
+      "description": ""
+    },
+    {
+      "name": "imagemagick",
+      "description": ""
+    },
+    {
+      "name": "ntfs-3g",
+      "description": ""
+    },
+    {
+      "name": "readline",
+      "description": ""
+    },
+    {
+      "name": "xvid",
+      "description": ""
+    },
+    {
+      "name": "ffmpeg",
+      "description": ""
+    },
+    {
+      "name": "jpeg",
+      "description": ""
+    },
+    {
+      "name": "openssl",
+      "description": ""
+    },
+    {
+      "name": "sl",
+      "description": ""
+    },
+    {
+      "name": "xz",
+      "description": ""
+    },
+    {
+      "name": "freetype",
+      "description": ""
+    },
+    {
+      "name": "lame",
+      "description": ""
+    },
+    {
+      "name": "pcre",
+      "description": ""
+    },
+    {
+      "name": "sqlite",
+      "description": ""
+    },
+    {
+      "name": "gdbm",
+      "description": ""
+    },
+    {
+      "name": "libpng",
+      "description": ""
+    },
+    {
+      "name": "pkg-config",
+      "description": ""
+    },
+    {
+      "name": "tree",
+      "description": ""
+    },
+    {
+      "name": "ruby",
+      "description": ""
+    }
+  ]
+}
