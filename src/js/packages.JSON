@@ -1,420 +1,299 @@
 {
-  "packages": [
-    {
-      "name": "bash",
-      "description": ""
-    },
-    {
-      "name": "python",
-      "description": ""
-    },
-    {
-      "name": "python3",
-      "description": ""
-    },
-    {
-      "name": "wget",
-      "description": ""
-    },
-    {
-      "name": "bash-completion",
-      "description": ""
-    },
-    {
-      "name": "git-lfs",
-      "description": ""
-    },
-    {
-      "name": "colordiff",
-      "description": ""
-    },
-    {
-      "name": "imagemagick",
-      "description": ""
-    },
-    {
-      "name": "ntfs-3g",
-      "description": ""
-    },
-    {
-      "name": "ffmpeg",
-      "description": ""
-    },
-    {
-      "name": "sl",
-      "description": ""
-    },
-    {
-      "name": "xz",
-      "description": ""
-    },
-    {
-      "name": "sqlite",
-      "description": ""
-    },
-    {
-      "name": "pkg-config",
-      "description": ""
-    },
-    {
-      "name": "tree",
-      "description": ""
-    },
-    {
-      "name": "ruby",
-      "description": ""
-    },
-        {
-      "name": "admesh",
-      "description": ""
-    },
-    {
-      "name": "android-sdk",
-      "description": ""
-    },
-    {
-      "name": "asciinema",
-      "description": ""
-    },
-    {
-      "name": "autoconf",
-      "description": ""
-    },
-    {
-      "name": "automake",
-      "description": ""
-    },
-    {
-      "name": "base64",
-      "description": ""
-    },
-    {
-      "name": "bash",
-      "description": ""
-    },
-    {
-      "name": "binwalk",
-      "description": ""
-    },
-    {
-      "name": "brew-cask-completion",
-      "description": ""
-    },
-    {
-      "name": "cmake",
-      "description": ""
+    "bash": {
+        "desc": ""
     },
-    {
-      "name": "cmatrix",
-      "description": ""
+    "python": {
+        "desc": ""
     },
-    {
-      "name": "coreutils",
-      "description": ""
+    "python3": {
+        "desc": ""
     },
-    {
-      "name": "cowsay",
-      "description": ""
+    "wget": {
+        "desc": ""
     },
-    {
-      "name": "crunch",
-      "description": ""
+    "bash-completion": {
+        "desc": ""
     },
-    {
-      "name": "cscope",
-      "description": ""
+    "git-lfs": {
+        "desc": ""
     },
-    {
-      "name": "curl",
-      "description": ""
+    "colordiff": {
+        "desc": ""
     },
-    {
-      "name": "ddrescue",
-      "description": ""
+    "imagemagick": {
+        "desc": ""
     },
-    {
-      "name": "e2fsprogs",
-      "description": ""
+    "ntfs-3g": {
+        "desc": ""
     },
-    {
-      "name": "ext2fuse",
-      "description": ""
+    "ffmpeg": {
+        "desc": ""
     },
-    {
-      "name": "ext4fuse",
-      "description": ""
+    "sl": {
+        "desc": ""
     },
-    {
-      "name": "faad2",
-      "description": ""
+    "xz": {
+        "desc": ""
     },
-    {
-      "name": "fcrackzip",
-      "description": ""
+    "sqlite": {
+        "desc": ""
     },
-    {
-      "name": "figlet",
-      "description": ""
+    "pkg-config": {
+        "desc": ""
     },
-    {
-      "name": "findutils",
-      "description": ""
+    "tree": {
+        "desc": ""
     },
-    {
-      "name": "fluid-synth",
-      "description": ""
+    "ruby": {
+        "desc": ""
     },
-    {
-      "name": "fortune",
-      "description": ""
+    "admesh": {
+        "desc": ""
     },
-    {
-      "name": "freetype",
-      "description": ""
+    "android-sdk": {
+        "desc": ""
     },
-    {
-      "name": "fswatch",
-      "description": ""
+    "asciinema": {
+        "desc": ""
     },
-    {
-      "name": "fuse-zip",
-      "description": ""
+    "autoconf": {
+        "desc": ""
     },
-    {
-      "name": "git",
-      "description": ""
+    "automake": {
+        "desc": ""
     },
-    {
-      "name": "gmp",
-      "description": ""
+    "base64": {
+        "desc": ""
     },
-    {
-      "name": "gnu-getopt",
-      "description": ""
+    "binwalk": {
+        "desc": ""
     },
-    {
-      "name": "gnu-indent",
-      "description": ""
+    "brew-cask-completion": {
+        "desc": ""
     },
-    {
-      "name": "gnu-sed",
-      "description": ""
+    "cmake": {
+        "desc": ""
     },
-    {
-      "name": "gnu-tar",
-      "description": ""
+    "cmatrix": {
+        "desc": ""
     },
-    {
-      "name": "gnu-which",
-      "description": ""
+    "coreutils": {
+        "desc": ""
     },
-    {
-      "name": "gnutls",
-      "description": ""
+    "cowsay": {
+        "desc": ""
     },
-    {
-      "name": "go",
-      "description": ""
+    "crunch": {
+        "desc": ""
     },
-    {
-      "name": "grep",
-      "description": ""
+    "cscope": {
+        "desc": ""
     },
-    {
-      "name": "gsasl",
-      "description": ""
+    "curl": {
+        "desc": ""
     },
-    {
-      "name": "gzip",
-      "description": ""
+    "ddrescue": {
+        "desc": ""
     },
-    {
-      "name": "htop",
-      "description": ""
+    "e2fsprogs": {
+        "desc": ""
     },
-    {
-      "name": "hub",
-      "description": ""
+    "ext2fuse": {
+        "desc": ""
     },
-    {
-      "name": "hydra",
-      "description": ""
+    "ext4fuse": {
+        "desc": ""
     },
-    {
-      "name": "iftop",
-      "description": ""
+    "faad2": {
+        "desc": ""
     },
-    {
-      "name": "irssi",
-      "description": ""
+    "fcrackzip": {
+        "desc": ""
     },
-    {
-      "name": "less",
-      "description": ""
+    "figlet": {
+        "desc": ""
     },
-    {
-      "name": "links",
-      "description": ""
+    "findutils": {
+        "desc": ""
     },
-    {
-      "name": "llvm",
-      "description": ""
+    "fluid-synth": {
+        "desc": ""
     },
-    {
-      "name": "lzo",
-      "description": ""
+    "fortune": {
+        "desc": ""
     },
-    {
-      "name": "macvim",
-      "description": ""
+    "freetype": {
+        "desc": ""
     },
-    {
-      "name": "markdown",
-      "description": ""
+    "fswatch": {
+        "desc": ""
     },
-    {
-      "name": "mpd",
-      "description": ""
+    "fuse-zip": {
+        "desc": ""
     },
-    {
-      "name": "mplayer",
-      "description": ""
+    "git": {
+        "desc": ""
     },
-    {
-      "name": "mysql",
-      "description": ""
+    "gmp": {
+        "desc": ""
     },
-    {
-      "name": "ncdu",
-      "description": ""
+    "gnu-getopt": {
+        "desc": ""
     },
-    {
-      "name": "ncurses",
-      "description": ""
+    "gnu-indent": {
+        "desc": ""
     },
-    {
-      "name": "netcat",
-      "description": ""
+    "gnu-sed": {
+        "desc": ""
     },
-    {
-      "name": "nmap",
-      "description": ""
+    "gnu-tar": {
+        "desc": ""
     },
-    {
-      "name": "node",
-      "description": ""
+    "gnu-which": {
+        "desc": ""
     },
-    {
-      "name": "openvpn",
-      "description": ""
+    "gnutls": {
+        "desc": ""
     },
-    {
-      "name": "p7zip",
-      "description": ""
+    "go": {
+        "desc": ""
     },
-    {
-      "name": "parallel",
-      "description": ""
+    "grep": {
+        "desc": ""
     },
-    {
-      "name": "pcre",
-      "description": ""
+    "gsasl": {
+        "desc": ""
     },
-    {
-      "name": "perl",
-      "description": ""
+    "gzip": {
+        "desc": ""
     },
-    {
-      "name": "pstree",
-      "description": ""
+    "htop": {
+        "desc": ""
     },
-    {
-      "name": "pv",
-      "description": ""
+    "hub": {
+        "desc": ""
     },
-    {
-      "name": "qemu",
-      "description": ""
+    "hydra": {
+        "desc": ""
     },
-    {
-      "name": "qt",
-      "description": ""
+    "iftop": {
+        "desc": ""
     },
-    {
-      "name": "r",
-      "description": ""
+    "irssi": {
+        "desc": ""
     },
-    {
-      "name": "rsync",
-      "description": ""
+    "less": {
+        "desc": ""
     },
-    {
-      "name": "ruby",
-      "description": ""
+    "links": {
+        "desc": ""
     },
-    {
-      "name": "screen",
-      "description": ""
+    "llvm": {
+        "desc": ""
     },
-    {
-      "name": "sqlite",
-      "description": ""
+    "lzo": {
+        "desc": ""
     },
-    {
-      "name": "sqlmap",
-      "description": ""
+    "macvim": {
+        "desc": ""
     },
-    {
-      "name": "sshfs",
-      "description": ""
+    "markdown": {
+        "desc": ""
     },
-    {
-      "name": "tcpdump",
-      "description": ""
+    "mpd": {
+        "desc": ""
     },
-    {
-      "name": "testdisk",
-      "description": ""
+    "mplayer": {
+        "desc": ""
     },
-    {
-      "name": "tmate",
-      "description": ""
+    "mysql": {
+        "desc": ""
     },
-    {
-      "name": "tmux",
-      "description": ""
+    "ncdu": {
+        "desc": ""
     },
-    {
-      "name": "tor",
-      "description": ""
+    "ncurses": {
+        "desc": ""
     },
-    {
-      "name": "torsocks",
-      "description": ""
+    "netcat": {
+        "desc": ""
     },
-    {
-      "name": "unzip",
-      "description": ""
+    "nmap": {
+        "desc": ""
     },
-    {
-      "name": "vim",
-      "description": ""
+    "node": {
+        "desc": ""
     },
-    {
-      "name": "watch",
-      "description": ""
+    "openvpn": {
+        "desc": ""
     },
-    {
-      "name": "wget",
-      "description": ""
+    "p7zip": {
+        "desc": ""
     },
-    {
-      "name": "xz",
-      "description": ""
+    "parallel": {
+        "desc": ""
     },
-    {
-      "name": "youtube-dl",
-      "description": ""
+    "pcre": {
+        "desc": ""
     },
-  ]
+    "perl": {
+        "desc": ""
+    },
+    "pstree": {
+        "desc": ""
+    },
+    "pv": {
+        "desc": ""
+    },
+    "qemu": {
+        "desc": ""
+    },
+    "qt": {
+        "desc": ""
+    },
+    "r": {
+        "desc": ""
+    },
+    "rsync": {
+        "desc": ""
+    },
+    "screen": {
+        "desc": ""
+    },
+    "sqlmap": {
+        "desc": ""
+    },
+    "sshfs": {
+        "desc": ""
+    },
+    "tcpdump": {
+        "desc": ""
+    },
+    "testdisk": {
+        "desc": ""
+    },
+    "tmate": {
+        "desc": ""
+    },
+    "tmux": {
+        "desc": ""
+    },
+    "tor": {
+        "desc": ""
+    },
+    "torsocks": {
+        "desc": ""
+    },
+    "unzip": {
+        "desc": ""
+    },
+    "vim": {
+        "desc": ""
+    },
+    "watch": {
+        "desc": ""
+    },
+    "youtube-dl": {
+        "desc": ""
+    }
 }
