@@ -1,0 +1,23 @@
+{
+  "name": "macOS-setup",
+  "description": "The way programmers should set up their macOS.",
+  "main": "index.js",
+  "authors": [
+    "Omar Albeik"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/omaralbeik/macOS-setup",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ajax": "^0.0.15",
+    "animate.css": "^3.5.1",
+    "bootstrap": "^3.3.6",
+    "normalize-css": "normalize.css#^3.0.3"
+  }
+}
