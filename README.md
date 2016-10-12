@@ -91,13 +91,17 @@ gem install cocoapods --pre
 
 ## My Dock
 The icons in my docks varys from time to time, however I put here the apps that I use at least once a week
+<p align="left">
+  <img src="https://github.com/omaralbeik/macOS-setup/blob/master/dock_icons.png" title="My Dock">
+</p>
 
-
-## My Sketch menu
-
+## My Sketch Menu
+<p align="left">
+  <img src="https://github.com/omaralbeik/macOS-setup/blob/master/sketch_menu.png" title="My Sketch Menu">
+</p>
 
 ## My Xcode Editor Theme
-I use a customized version of Monokai theme [MyMonokai]()
+I use a customized version of Monokai theme [MyMonokai](https://github.com/omaralbeik/macOS-setup/blob/master/MyMonokai.xccolortheme)
 
 
 ## My Preferred Monospace Type
