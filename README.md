@@ -1,8 +1,11 @@
 # My macOS setup
+
 The way I set up my mac after a fresh macOS install
 
 
+
 ## Homebrew
+
 The missing package manager for macOS
 
 ```bash
@@ -50,6 +53,7 @@ The missing package manager for macOS
 |**[Xcode 8](https://developer.apple.com/xcode/)** | -- |
 
 
+
 ## Packages from brew
 
 asciinema
@@ -82,12 +86,16 @@ watch
 wget
 youtube-dl
 
+
+
 ## CocoaPods
+
 CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects. It has over 24 thousand libraries and is used in over 1.2 million apps. CocoaPods can help you scale your projects elegantly.
 
 ```bash
 gem install cocoapods --pre
 ```
+
 
 ## My Dock
 The icons in my docks varys from time to time, however I put here the apps that I use at least once a week
@@ -95,10 +103,14 @@ The icons in my docks varys from time to time, however I put here the apps that 
   <img src="https://github.com/omaralbeik/macOS-setup/blob/master/dock_icons.png" title="My Dock">
 </p>
 
+
+
 ## My Sketch Menu
 <p align="left">
   <img src="https://github.com/omaralbeik/macOS-setup/blob/master/sketch_menu.png" title="My Sketch Menu">
 </p>
+
+
 
 ## My Xcode Editor Theme
 I use a customized version of Monokai theme [MyMonokai](https://github.com/omaralbeik/macOS-setup/blob/master/MyMonokai.xccolortheme)
