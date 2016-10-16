@@ -116,5 +116,5 @@ The icons in my docks varys from time to time, however I put here the apps that 
 I use a customized version of Monokai theme [MyMonokai](https://github.com/omaralbeik/macOS-setup/blob/master/MyMonokai.xccolortheme)
 
 
-## My Preferred Monospace Type
+## My Preferred Monospace Font
 I fallen in love with Apples SFMono font from the very first second :)
