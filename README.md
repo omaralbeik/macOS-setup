@@ -17,7 +17,7 @@ The missing package manager for macOS
 ## Apps
 
 | Name | [cask](https://caskroom.github.io/) |
-|:--- | :--- | :---: |
+|:--- | :---: |
 |**[Android Studio](https://developer.android.com/studio)** | android-studio |
 |**[Apple Keynote](http://www.apple.com/keynote/)** | -- |
 |**[Apple Numbers](http://www.apple.com/numbers/)** | -- |
@@ -51,7 +51,6 @@ The missing package manager for macOS
 |**[Whatsapp](https://www.whatsapp.com)** | whatsapp |
 |**[Wunderlist](https://www.wunderlist.com/)** | -- |
 |**[Xcode 8](https://developer.apple.com/xcode/)** | -- |
-
 
 
 ## Packages from brew
